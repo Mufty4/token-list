@@ -1,1 +1,9 @@
-
+{
+  "chainId": 101,
+  "address": "3cZnw6XStxamGaWp5PaJf1D5U38qVvvfoZfwjzG5ys88",
+  "symbol": "KROW",
+  "name": "Kool Krow",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Mufty4/token-list/add-kool-krow-token/assets/mainnet/3cZnw6XStxamGaWp5PaJf1D5U38qVvvfoZfwjzG5ys88/kool_krow_logo_transparent.png",
+  "tags": ["token"]
+}
