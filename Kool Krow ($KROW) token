@@ -1,0 +1,14 @@
+{
+  "name": "Kool Krow",
+  "symbol": "KROW",
+  "address": "3cZnw6XStxamGaWp5PaJf1D5U38qVvvfoZfwjzG5ys88",
+  "decimals": 9,
+  "logoURI": "https://gateway.irys.xyz/ai/share/11f5febd-db79-4ab2-9fd7-51f5001f29e9",
+  "tags": ["utility-token", "meme"],
+  "extensions": {
+    "website": "https://koolkrow.fun",
+    "twitter": "https://x.com/KoolkrowSOL",
+    "telegram": "https://t.me/koolkrow",
+    "explorer": "https://solscan.io/token/3cZnw6XStxamGaWp5PaJf1D5U38qVvvfoZfwjzG5ys88"
+  }
+}
